@@ -40,3 +40,11 @@ Scraping Data From Personal Website!
      <p>PyPI</p>
     </a></td>
   </tr>
+
+### Run the File using Terminal:
+```python
+cd /Desktop/web_scraping
+```
+```python
+python3 webScraping.py
+```
