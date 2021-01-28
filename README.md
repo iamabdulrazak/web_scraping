@@ -1,6 +1,11 @@
 # web Scraping
 Scraping Data From Personal Website!
 
+## Run the File using Terminal:
+```python
+python3 webScraping.py
+```
+
 ## Packages
 <table class="tg">
   <tr>
@@ -40,11 +45,3 @@ Scraping Data From Personal Website!
      <p>PyPI</p>
     </a></td>
   </tr>
-
-### Run the File using Terminal:
-```python
-cd /Desktop/web_scraping
-```
-```python
-python3 webScraping.py
-```
